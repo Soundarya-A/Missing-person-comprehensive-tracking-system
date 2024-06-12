@@ -1,0 +1,14 @@
+name,age,img_path,Contact_no,Location,admin-email,email,Match-found,email_sent
+priya,8,data\admin_data\missing_images\priya.jpeg,9769123443,chennai,admin@gmail.com,,No,No
+suji,5,data\admin_data\missing_images\suji.jpeg,9769123443,anna nagar,admin@gmail.com,mail2soundaryaa@gmail.com,No,No
+suba,4,data\admin_data\missing_images\suba.jpeg,123987645,anna nagar,admin@gmail.com,mail2soundaryaa@gmail.com,Yes,Yes
+sou,9,data\admin_data\missing_images\sou.jpeg,9769123443,"balaji nagar,chennai",admin@gmail.com,soundaryarmkcet@gmail.com,Yes,Yes
+mark,8,data\admin_data\missing_images\mark.jpeg,9769123443,thanjavur,admin@gmail.com,soundaryarmkcet@gmail.com,Yes,Yes
+abi,9,data\admin_data\missing_images\abi.jpeg,9769123443,thiruvallur,admin@gmail.com,soundaryarmkcet@gmail.com,No,No
+dharshini,5,data\admin_data\missing_images\dharshini.jpeg,9769123443,chennai,admin@gmail.com,soundaryarmkcet@gmail.com,No,No
+akash,4,data\admin_data\missing_images\akash.jpeg,9769123443,chennai,admin@gmail.com,soundaryarmkcet@gmail.com,Yes,Yes
+anu,3,data\admin_data\missing_images\anu.jpeg,9769123443,chennai,admin@gmail.com,soundaryarmkcet@gmail.com,No,No
+anbu,2,data\admin_data\missing_images\anbu.jpeg,9769123443,chennai,admin@gmail.com,soundaryarmkcet@gmail.com,Yes,Yes
+rian,6,data\admin_data\missing_images\rian.jpeg,9769123443,chennai,admin@gmail.com,soundaryarmkcet@gmail.com,Yes,Yes
+praba,4,data\admin_data\missing_images\praba.jpeg,9769123443,chennai,admin@gmail.com,,Yes,Yes
+shamitha,18,data\admin_data\missing_images\shamitha.jpeg,9769123443,"Ambattur, Chennai",admin@gmail.com,soundaryarmkcet@gmail.com,Yes,Yes
